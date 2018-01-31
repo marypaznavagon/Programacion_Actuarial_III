@@ -1,2 +1,18 @@
-# Programacion_Actuarial_III
-Primavera 2016
+# SoftwareActuarial3
+Primavera 2018
+
+install.packages("rmarkdown")
+
+Encabezados
+# Encabezado principal (Título)
+## Encabezado secundario (Sub Título)
+### Encabezado terciario (Sección)
+
+Listas
+* Elemento a
+* Elemento b
+* Elemento c
+
+*Prueba*
+**Prueba**
+    

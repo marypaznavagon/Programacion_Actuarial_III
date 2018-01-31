@@ -1,1 +1,18 @@
-Es un Repositorio de prueba para ver si entendi como hacerlo
+# SoftwareActuarial3
+Primavera 2018
+
+install.packages("rmarkdown")
+
+Encabezados
+# Encabezado principal (Título)
+## Encabezado secundario (Sub Título)
+### Encabezado terciario (Sección)
+
+Listas
+* Elemento a
+* Elemento b
+* Elemento c
+
+*Prueba*
+**Prueba**
+    
