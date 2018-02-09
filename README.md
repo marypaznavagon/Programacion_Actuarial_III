@@ -15,4 +15,9 @@ Listas
 
 *Prueba*
 **Prueba**
+
+install.packages("ggplot2")
+
+#tarea de prueba
+nachito believer
     
