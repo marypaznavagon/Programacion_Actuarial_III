@@ -2,7 +2,7 @@ setwd("C:/Users/marip_000/Desktop/specdata")
 directorio <- "C:/Users/marip_000/Desktop/specdata"
 
 corr <- function(directorio,horizonte=0){
-    vec1 <- vertor("numeric")
+    vec1 <- vector("numeric")
     vec2 <- vector("numeric")
     
     for(i in 1:332){
