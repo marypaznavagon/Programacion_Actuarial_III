@@ -19,14 +19,9 @@ completos <- function(directorio,id=1:332){
         nume <- nrow(estossi)
         vec1 <- c(vec1,nume)
     }
-    dafra <- data.frame(ID = id,NOBS = vec1)
-    print(dafra)
+    tabla <- data.frame(ID = id,NOBS = vec1)
+    print(tabla)
 }
 
-ler <- read.csv("001.csv")
-dat <- complete.cases(ler)
-real <- ler[dat, 2:3]
-relacion <- cor(real[,1],real[,2])
-relacion
 
-completos(directorio,1:10)
+
